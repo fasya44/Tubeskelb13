@@ -1,0 +1,3 @@
+Nama: Anandra  KTP: 3251047308930007  TTL: Jakarta , 6 - 4 - 1997  Alamat: Jalan_Pledis_17  E-mail: andrapd17@gmail.com  No.Telp: 081721017017  Saldo: Rp. 150000000 
+Nama: Rd_Juna  KTP: 3190088908930002  TTL: Solo , 22 - 5 - 1991  Alamat: Jalan_Mahal_Kita_12  E-mail: junamaha@gmail.com  No.Telp: 081344567865  Saldo: Rp. 199837500 
+Nama: Dikta  KTP: 3155048908930005  TTL: Surabaya , 1 - 2 - 1996  Alamat: Jalan_Kelinci_23  E-mail: dikta96@gmail.com  No.Telp: 082175150822  Saldo: Rp. 150000000 
